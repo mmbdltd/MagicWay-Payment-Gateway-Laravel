@@ -1,0 +1,29 @@
+{
+  "name": "magicway/momagic-laravel",
+  "version": "1.0.0",
+  "description": "Laravel library for Magic way payment gateway",
+  "type": "library",
+  "keywords": [
+    "e-commerce",
+    "magicway",
+    "payment-gateway",
+    "checkout",
+    "shop",
+    "cart",
+    "local-payment-gateway",
+    "international-payment-gateway"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arifur Rahman",
+      "email": "info@momagicbd.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.2",
+    "laravel/framework": ">=6.0"
+  }
+}
